@@ -26,8 +26,8 @@
 #SBATCH -o myjob.o%j       # Name of stdout output file
 #SBATCH -e myjob.e%j       # Name of stderr error file
 #SBATCH -p normal          # Queue (partition) name
-#SBATCH -N 4               # Total # of nodes 
-#SBATCH -n 64              # Total # of mpi tasks
+#SBATCH -N 2               # Total # of nodes 
+#SBATCH -n 16              # Total # of mpi tasks
 #SBATCH -t 01:30:00        # Run time (hh:mm:ss)
 #SBATCH --mail-user=
 #SBATCH --mail-type=all    # Send email at begin and end of job
@@ -37,5 +37,5 @@ module list
 pwd
 date
 # Launch MPI code... 
-ibrun ./myexe.exe         # Use ibrun instead of mpirun or mpiexec
+ibrun ./JHIC3        # Use ibrun instead of mpirun or mpiexec
 # ---------------------------------------------------
