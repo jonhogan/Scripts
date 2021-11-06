@@ -37,5 +37,5 @@ module list
 pwd
 date
 # Launch MPI code... 
-ibrun ./JHIC3        # Use ibrun instead of mpirun or mpiexec
+./NVJHic4        # Use ibrun instead of mpirun or mpiexec
 # ---------------------------------------------------
