@@ -1,0 +1,8 @@
+#! /usr/bin/bash
+
+#Get Ubuntu updates and upgrades
+sudo apt update
+sudo apt upgrade -y
+
+#Refresh Snaps
+sudo snap refresh
