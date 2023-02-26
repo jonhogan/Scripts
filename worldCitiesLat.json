@@ -1,0 +1,2243 @@
+[
+  {
+    "City": "Aberdeen",
+    "State": "Null",
+    "Country": "Scotland",
+    "Latitude (D)": "57",
+    "Latitude (C)": "9 N",
+    "Longitude (D)": "2",
+    "Longitude (C)": "9 W"
+  },
+  {
+    "City": "Adelaide",
+    "State": "Null",
+    "Country": "Australia",
+    "Latitude (D)": "34",
+    "Latitude (C)": "55 S",
+    "Longitude (D)": "138",
+    "Longitude (C)": "36 E"
+  },
+  {
+    "City": "Algiers",
+    "State": "Null",
+    "Country": "Algeria",
+    "Latitude (D)": "36",
+    "Latitude (C)": "50 N",
+    "Longitude (D)": "3",
+    "Longitude (C)": "0 E"
+  },
+  {
+    "City": "Amsterdam",
+    "State": "Null",
+    "Country": "Netherlands",
+    "Latitude (D)": "52",
+    "Latitude (C)": "22 N",
+    "Longitude (D)": "4",
+    "Longitude (C)": "53 E"
+  },
+  {
+    "City": "Ankara",
+    "State": "Null",
+    "Country": "Turkey",
+    "Latitude (D)": "39",
+    "Latitude (C)": "55 N",
+    "Longitude (D)": "32",
+    "Longitude (C)": "55 E"
+  },
+  {
+    "City": "Asuncion",
+    "State": "Null",
+    "Country": "Paraguay",
+    "Latitude (D)": "25",
+    "Latitude (C)": "15 S",
+    "Longitude (D)": "57",
+    "Longitude (C)": "40 W"
+  },
+  {
+    "City": "Athens",
+    "State": "Null",
+    "Country": "Greece",
+    "Latitude (D)": "37",
+    "Latitude (C)": "58 N",
+    "Longitude (D)": "23",
+    "Longitude (C)": "43 E"
+  },
+  {
+    "City": "Auckland",
+    "State": "Null",
+    "Country": "New Zealand",
+    "Latitude (D)": "36",
+    "Latitude (C)": "52 S",
+    "Longitude (D)": "174",
+    "Longitude (C)": "45 E"
+  },
+  {
+    "City": "Bangkok",
+    "State": "Null",
+    "Country": "Thailand",
+    "Latitude (D)": "13",
+    "Latitude (C)": "45 N",
+    "Longitude (D)": "100",
+    "Longitude (C)": "30 E"
+  },
+  {
+    "City": "Barcelona",
+    "State": "Null",
+    "Country": "Spain",
+    "Latitude (D)": "41",
+    "Latitude (C)": "23 N",
+    "Longitude (D)": "2",
+    "Longitude (C)": "9 E"
+  },
+  {
+    "City": "Beijing",
+    "State": "Null",
+    "Country": "China",
+    "Latitude (D)": "39",
+    "Latitude (C)": "55 N",
+    "Longitude (D)": "116",
+    "Longitude (C)": "25 E"
+  },
+  {
+    "City": "Belem",
+    "State": "Null",
+    "Country": "Brazil",
+    "Latitude (D)": "1",
+    "Latitude (C)": "28 S",
+    "Longitude (D)": "48",
+    "Longitude (C)": "29 W"
+  },
+  {
+    "City": "Belfast",
+    "State": "Null",
+    "Country": "Northern Ireland",
+    "Latitude (D)": "54",
+    "Latitude (C)": "37 N",
+    "Longitude (D)": "5",
+    "Longitude (C)": "56 W"
+  },
+  {
+    "City": "Belgrade",
+    "State": "Null",
+    "Country": "Serbia",
+    "Latitude (D)": "44",
+    "Latitude (C)": "52 N",
+    "Longitude (D)": "20",
+    "Longitude (C)": "32 E"
+  },
+  {
+    "City": "Berlin",
+    "State": "Null",
+    "Country": "Germany",
+    "Latitude (D)": "52",
+    "Latitude (C)": "30 N",
+    "Longitude (D)": "13",
+    "Longitude (C)": "25 E"
+  },
+  {
+    "City": "Birmingham",
+    "State": "Null",
+    "Country": "England",
+    "Latitude (D)": "52",
+    "Latitude (C)": "25 N",
+    "Longitude (D)": "1",
+    "Longitude (C)": "55 W"
+  },
+  {
+    "City": "Bogota",
+    "State": "Null",
+    "Country": "Colombia",
+    "Latitude (D)": "4",
+    "Latitude (C)": "32 N",
+    "Longitude (D)": "74",
+    "Longitude (C)": "15 W"
+  },
+  {
+    "City": "Bombay",
+    "State": "Null",
+    "Country": "India",
+    "Latitude (D)": "19",
+    "Latitude (C)": "0 N",
+    "Longitude (D)": "72",
+    "Longitude (C)": "48 E"
+  },
+  {
+    "City": "Bordeaux",
+    "State": "Null",
+    "Country": "France",
+    "Latitude (D)": "44",
+    "Latitude (C)": "50 N",
+    "Longitude (D)": "0",
+    "Longitude (C)": "31 W"
+  },
+  {
+    "City": "Bremen",
+    "State": "Null",
+    "Country": "Germany",
+    "Latitude (D)": "53",
+    "Latitude (C)": "5 N",
+    "Longitude (D)": "8",
+    "Longitude (C)": "49 E"
+  },
+  {
+    "City": "Brisbane",
+    "State": "Null",
+    "Country": "Australia",
+    "Latitude (D)": "27",
+    "Latitude (C)": "29 S",
+    "Longitude (D)": "153",
+    "Longitude (C)": "8 E"
+  },
+  {
+    "City": "Bristol",
+    "State": "Null",
+    "Country": "England",
+    "Latitude (D)": "51",
+    "Latitude (C)": "28 N",
+    "Longitude (D)": "2",
+    "Longitude (C)": "35 W"
+  },
+  {
+    "City": "Brussels",
+    "State": "Null",
+    "Country": "Belgium",
+    "Latitude (D)": "50",
+    "Latitude (C)": "52 N",
+    "Longitude (D)": "4",
+    "Longitude (C)": "22 E"
+  },
+  {
+    "City": "Bucharest",
+    "State": "Null",
+    "Country": "Romania",
+    "Latitude (D)": "44",
+    "Latitude (C)": "25 N",
+    "Longitude (D)": "26",
+    "Longitude (C)": "7 E"
+  },
+  {
+    "City": "Budapest",
+    "State": "Null",
+    "Country": "Hungary",
+    "Latitude (D)": "47",
+    "Latitude (C)": "30 N",
+    "Longitude (D)": "19",
+    "Longitude (C)": "5 E"
+  },
+  {
+    "City": "Buenos Aires",
+    "State": "Null",
+    "Country": "Argentina",
+    "Latitude (D)": "34",
+    "Latitude (C)": "35 S",
+    "Longitude (D)": "58",
+    "Longitude (C)": "22 W"
+  },
+  {
+    "City": "Cairo",
+    "State": "Null",
+    "Country": "Egypt",
+    "Latitude (D)": "30",
+    "Latitude (C)": "2 N",
+    "Longitude (D)": "31",
+    "Longitude (C)": "21 E"
+  },
+  {
+    "City": "Calcutta",
+    "State": "Null",
+    "Country": "India",
+    "Latitude (D)": "22",
+    "Latitude (C)": "34 N",
+    "Longitude (D)": "88",
+    "Longitude (C)": "24 E"
+  },
+  {
+    "City": "Canton",
+    "State": "Null",
+    "Country": "China",
+    "Latitude (D)": "23",
+    "Latitude (C)": "7 N",
+    "Longitude (D)": "113",
+    "Longitude (C)": "15 E"
+  },
+  {
+    "City": "Cape Town",
+    "State": "Null",
+    "Country": "South Africa",
+    "Latitude (D)": "33",
+    "Latitude (C)": "55 S",
+    "Longitude (D)": "18",
+    "Longitude (C)": "22 E"
+  },
+  {
+    "City": "Caracas",
+    "State": "Null",
+    "Country": "Venezuela",
+    "Latitude (D)": "10",
+    "Latitude (C)": "28 N",
+    "Longitude (D)": "67",
+    "Longitude (C)": "2 W"
+  },
+  {
+    "City": "Cayenne",
+    "State": "Null",
+    "Country": "French Guiana",
+    "Latitude (D)": "4",
+    "Latitude (C)": "49 N",
+    "Longitude (D)": "52",
+    "Longitude (C)": "18 W"
+  },
+  {
+    "City": "Chihuahua",
+    "State": "Null",
+    "Country": "Mexico",
+    "Latitude (D)": "28",
+    "Latitude (C)": "37 N",
+    "Longitude (D)": "106",
+    "Longitude (C)": "5 W"
+  },
+  {
+    "City": "Chongqing",
+    "State": "Null",
+    "Country": "China",
+    "Latitude (D)": "29",
+    "Latitude (C)": "46 N",
+    "Longitude (D)": "106",
+    "Longitude (C)": "34 E"
+  },
+  {
+    "City": "Copenhagen",
+    "State": "Null",
+    "Country": "Denmark",
+    "Latitude (D)": "55",
+    "Latitude (C)": "40 N",
+    "Longitude (D)": "12",
+    "Longitude (C)": "34 E"
+  },
+  {
+    "City": "Cordoba",
+    "State": "Null",
+    "Country": "Argentina",
+    "Latitude (D)": "31",
+    "Latitude (C)": "28 S",
+    "Longitude (D)": "64",
+    "Longitude (C)": "10 W"
+  },
+  {
+    "City": "Dakar",
+    "State": "Null",
+    "Country": "Senegal",
+    "Latitude (D)": "14",
+    "Latitude (C)": "40 N",
+    "Longitude (D)": "17",
+    "Longitude (C)": "28 W"
+  },
+  {
+    "City": "Darwin",
+    "State": "Null",
+    "Country": "Australia",
+    "Latitude (D)": "12",
+    "Latitude (C)": "28 S",
+    "Longitude (D)": "130",
+    "Longitude (C)": "51 E"
+  },
+  {
+    "City": "Djibouti",
+    "State": "Null",
+    "Country": "Djibouti",
+    "Latitude (D)": "11",
+    "Latitude (C)": "30 N",
+    "Longitude (D)": "43",
+    "Longitude (C)": "3 E"
+  },
+  {
+    "City": "Dublin",
+    "State": "Null",
+    "Country": "Ireland",
+    "Latitude (D)": "53",
+    "Latitude (C)": "20 N",
+    "Longitude (D)": "6",
+    "Longitude (C)": "15 W"
+  },
+  {
+    "City": "Durban",
+    "State": "Null",
+    "Country": "South Africa",
+    "Latitude (D)": "29",
+    "Latitude (C)": "53 S",
+    "Longitude (D)": "30",
+    "Longitude (C)": "53 E"
+  },
+  {
+    "City": "Edinburgh",
+    "State": "Null",
+    "Country": "Scotland",
+    "Latitude (D)": "55",
+    "Latitude (C)": "55 N",
+    "Longitude (D)": "3",
+    "Longitude (C)": "10 W"
+  },
+  {
+    "City": "Frankfurt",
+    "State": "Null",
+    "Country": "Germany",
+    "Latitude (D)": "50",
+    "Latitude (C)": "7 N",
+    "Longitude (D)": "8",
+    "Longitude (C)": "41 E"
+  },
+  {
+    "City": "Georgetown",
+    "State": "Null",
+    "Country": "Guyana",
+    "Latitude (D)": "6",
+    "Latitude (C)": "45 N",
+    "Longitude (D)": "58",
+    "Longitude (C)": "15 W"
+  },
+  {
+    "City": "Glasgow",
+    "State": "Null",
+    "Country": "Scotland",
+    "Latitude (D)": "55",
+    "Latitude (C)": "50 N",
+    "Longitude (D)": "4",
+    "Longitude (C)": "15 W"
+  },
+  {
+    "City": "Guatemala City",
+    "State": "Null",
+    "Country": "Guatemala",
+    "Latitude (D)": "14",
+    "Latitude (C)": "37 N",
+    "Longitude (D)": "90",
+    "Longitude (C)": "31 W"
+  },
+  {
+    "City": "Guayaquil",
+    "State": "Null",
+    "Country": "Ecuador",
+    "Latitude (D)": "2",
+    "Latitude (C)": "10 S",
+    "Longitude (D)": "79",
+    "Longitude (C)": "56 W"
+  },
+  {
+    "City": "Hamburg",
+    "State": "Null",
+    "Country": "Germany",
+    "Latitude (D)": "53",
+    "Latitude (C)": "33 N",
+    "Longitude (D)": "10",
+    "Longitude (C)": "2 E"
+  },
+  {
+    "City": "Hammerfest",
+    "State": "Null",
+    "Country": "Norway",
+    "Latitude (D)": "70",
+    "Latitude (C)": "38 N",
+    "Longitude (D)": "23",
+    "Longitude (C)": "38 E"
+  },
+  {
+    "City": "Havana",
+    "State": "Null",
+    "Country": "Cuba",
+    "Latitude (D)": "23",
+    "Latitude (C)": "8 N",
+    "Longitude (D)": "82",
+    "Longitude (C)": "23 W"
+  },
+  {
+    "City": "Helsinki",
+    "State": "Null",
+    "Country": "Finland",
+    "Latitude (D)": "60",
+    "Latitude (C)": "10 N",
+    "Longitude (D)": "25",
+    "Longitude (C)": "0 E"
+  },
+  {
+    "City": "Hobart",
+    "State": "Null",
+    "Country": "Tasmania",
+    "Latitude (D)": "42",
+    "Latitude (C)": "52 S",
+    "Longitude (D)": "147",
+    "Longitude (C)": "19 E"
+  },
+  {
+    "City": "Hong Kong",
+    "State": "Null",
+    "Country": "China",
+    "Latitude (D)": "22",
+    "Latitude (C)": "20 N",
+    "Longitude (D)": "114",
+    "Longitude (C)": "11 E"
+  },
+  {
+    "City": "Iquique",
+    "State": "Null",
+    "Country": "Chile",
+    "Latitude (D)": "20",
+    "Latitude (C)": "10 S",
+    "Longitude (D)": "70",
+    "Longitude (C)": "7 W"
+  },
+  {
+    "City": "Irkutsk",
+    "State": "Null",
+    "Country": "Russia",
+    "Latitude (D)": "52",
+    "Latitude (C)": "30 N",
+    "Longitude (D)": "104",
+    "Longitude (C)": "20 E"
+  },
+  {
+    "City": "Jakarta",
+    "State": "Null",
+    "Country": "Indonesia",
+    "Latitude (D)": "6",
+    "Latitude (C)": "16 S",
+    "Longitude (D)": "106",
+    "Longitude (C)": "48 E"
+  },
+  {
+    "City": "Johannesburg",
+    "State": "Null",
+    "Country": "South Africa",
+    "Latitude (D)": "26",
+    "Latitude (C)": "12 S",
+    "Longitude (D)": "28",
+    "Longitude (C)": "4 E"
+  },
+  {
+    "City": "Kingston",
+    "State": "Null",
+    "Country": "Jamaica",
+    "Latitude (D)": "17",
+    "Latitude (C)": "59 N",
+    "Longitude (D)": "76",
+    "Longitude (C)": "49 W"
+  },
+  {
+    "City": "Kinshasa",
+    "State": "Null",
+    "Country": "Congo",
+    "Latitude (D)": "4",
+    "Latitude (C)": "18 S",
+    "Longitude (D)": "15",
+    "Longitude (C)": "17 E"
+  },
+  {
+    "City": "Kuala Lumpur",
+    "State": "Null",
+    "Country": "Malaysia",
+    "Latitude (D)": "3",
+    "Latitude (C)": "8 N",
+    "Longitude (D)": "101",
+    "Longitude (C)": "42 E"
+  },
+  {
+    "City": "La Paz",
+    "State": "Null",
+    "Country": "Bolivia",
+    "Latitude (D)": "16",
+    "Latitude (C)": "27 S",
+    "Longitude (D)": "68",
+    "Longitude (C)": "22 W"
+  },
+  {
+    "City": "Leeds",
+    "State": "Null",
+    "Country": "England",
+    "Latitude (D)": "53",
+    "Latitude (C)": "45 N",
+    "Longitude (D)": "1",
+    "Longitude (C)": "30 W"
+  },
+  {
+    "City": "Lima",
+    "State": "Null",
+    "Country": "Peru",
+    "Latitude (D)": "12",
+    "Latitude (C)": "0 S",
+    "Longitude (D)": "77",
+    "Longitude (C)": "2 W"
+  },
+  {
+    "City": "Lisbon",
+    "State": "Null",
+    "Country": "Portugal",
+    "Latitude (D)": "38",
+    "Latitude (C)": "44 N",
+    "Longitude (D)": "9",
+    "Longitude (C)": "9 W"
+  },
+  {
+    "City": "Liverpool",
+    "State": "Null",
+    "Country": "England",
+    "Latitude (D)": "53",
+    "Latitude (C)": "25 N",
+    "Longitude (D)": "3",
+    "Longitude (C)": "0 W"
+  },
+  {
+    "City": "London",
+    "State": "Null",
+    "Country": "England",
+    "Latitude (D)": "51",
+    "Latitude (C)": "32 N",
+    "Longitude (D)": "0",
+    "Longitude (C)": "5 W"
+  },
+  {
+    "City": "Lyons",
+    "State": "Null",
+    "Country": "France",
+    "Latitude (D)": "45",
+    "Latitude (C)": "45 N",
+    "Longitude (D)": "4",
+    "Longitude (C)": "50 E"
+  },
+  {
+    "City": "Madrid",
+    "State": "Null",
+    "Country": "Spain",
+    "Latitude (D)": "40",
+    "Latitude (C)": "26 N",
+    "Longitude (D)": "3",
+    "Longitude (C)": "42 W"
+  },
+  {
+    "City": "Manchester",
+    "State": "Null",
+    "Country": "England",
+    "Latitude (D)": "53",
+    "Latitude (C)": "30 N",
+    "Longitude (D)": "2",
+    "Longitude (C)": "15 W"
+  },
+  {
+    "City": "Manila",
+    "State": "Null",
+    "Country": "Philippines",
+    "Latitude (D)": "14",
+    "Latitude (C)": "35 N",
+    "Longitude (D)": "120",
+    "Longitude (C)": "57 E"
+  },
+  {
+    "City": "Marseilles",
+    "State": "Null",
+    "Country": "France",
+    "Latitude (D)": "43",
+    "Latitude (C)": "20 N",
+    "Longitude (D)": "5",
+    "Longitude (C)": "20 E"
+  },
+  {
+    "City": "Mazatlan",
+    "State": "Null",
+    "Country": "Mexico",
+    "Latitude (D)": "23",
+    "Latitude (C)": "12 N",
+    "Longitude (D)": "106",
+    "Longitude (C)": "25 W"
+  },
+  {
+    "City": "Mecca",
+    "State": "Null",
+    "Country": "Saudi Arabia",
+    "Latitude (D)": "21",
+    "Latitude (C)": "29 N",
+    "Longitude (D)": "39",
+    "Longitude (C)": "45 E"
+  },
+  {
+    "City": "Melbourne",
+    "State": "Null",
+    "Country": "Australia",
+    "Latitude (D)": "37",
+    "Latitude (C)": "47 S",
+    "Longitude (D)": "144",
+    "Longitude (C)": "58 E"
+  },
+  {
+    "City": "Mexico City",
+    "State": "Null",
+    "Country": "Mexico",
+    "Latitude (D)": "19",
+    "Latitude (C)": "26 N",
+    "Longitude (D)": "99",
+    "Longitude (C)": "7 W"
+  },
+  {
+    "City": "Milan",
+    "State": "Null",
+    "Country": "Italy",
+    "Latitude (D)": "45",
+    "Latitude (C)": "27 N",
+    "Longitude (D)": "9",
+    "Longitude (C)": "10 E"
+  },
+  {
+    "City": "Montevideo",
+    "State": "Null",
+    "Country": "Uruguay",
+    "Latitude (D)": "34",
+    "Latitude (C)": "53 S",
+    "Longitude (D)": "56",
+    "Longitude (C)": "10 W"
+  },
+  {
+    "City": "Moscow",
+    "State": "Null",
+    "Country": "Russia",
+    "Latitude (D)": "55",
+    "Latitude (C)": "45 N",
+    "Longitude (D)": "37",
+    "Longitude (C)": "36 E"
+  },
+  {
+    "City": "Munich",
+    "State": "Null",
+    "Country": "Germany",
+    "Latitude (D)": "48",
+    "Latitude (C)": "8 N",
+    "Longitude (D)": "11",
+    "Longitude (C)": "35 E"
+  },
+  {
+    "City": "Nagasaki",
+    "State": "Null",
+    "Country": "Japan",
+    "Latitude (D)": "32",
+    "Latitude (C)": "48 N",
+    "Longitude (D)": "129",
+    "Longitude (C)": "57 E"
+  },
+  {
+    "City": "Nagoya",
+    "State": "Null",
+    "Country": "Japan",
+    "Latitude (D)": "35",
+    "Latitude (C)": "7 N",
+    "Longitude (D)": "136",
+    "Longitude (C)": "56 E"
+  },
+  {
+    "City": "Nairobi",
+    "State": "Null",
+    "Country": "Kenya",
+    "Latitude (D)": "1",
+    "Latitude (C)": "25 S",
+    "Longitude (D)": "36",
+    "Longitude (C)": "55 E"
+  },
+  {
+    "City": "Nanjing (Nanking)",
+    "State": "Null",
+    "Country": "China",
+    "Latitude (D)": "32",
+    "Latitude (C)": "3 N",
+    "Longitude (D)": "118",
+    "Longitude (C)": "53 E"
+  },
+  {
+    "City": "Naples",
+    "State": "Null",
+    "Country": "Italy",
+    "Latitude (D)": "40",
+    "Latitude (C)": "50 N",
+    "Longitude (D)": "14",
+    "Longitude (C)": "15 E"
+  },
+  {
+    "City": "New Delhi",
+    "State": "Null",
+    "Country": "India",
+    "Latitude (D)": "28",
+    "Latitude (C)": "35 N",
+    "Longitude (D)": "77",
+    "Longitude (C)": "12 E"
+  },
+  {
+    "City": "Newcastle-on-Tyne",
+    "State": "Null",
+    "Country": "England",
+    "Latitude (D)": "54",
+    "Latitude (C)": "58 N",
+    "Longitude (D)": "1",
+    "Longitude (C)": "37 W"
+  },
+  {
+    "City": "Odessa",
+    "State": "Null",
+    "Country": "Ukraine",
+    "Latitude (D)": "46",
+    "Latitude (C)": "27 N",
+    "Longitude (D)": "30",
+    "Longitude (C)": "48 E"
+  },
+  {
+    "City": "Osaka",
+    "State": "Null",
+    "Country": "Japan",
+    "Latitude (D)": "34",
+    "Latitude (C)": "32 N",
+    "Longitude (D)": "135",
+    "Longitude (C)": "30 E"
+  },
+  {
+    "City": "Oslo",
+    "State": "Null",
+    "Country": "Norway",
+    "Latitude (D)": "59",
+    "Latitude (C)": "57 N",
+    "Longitude (D)": "10",
+    "Longitude (C)": "42 E"
+  },
+  {
+    "City": "Panama City",
+    "State": "Null",
+    "Country": "Panama",
+    "Latitude (D)": "8",
+    "Latitude (C)": "58 N",
+    "Longitude (D)": "79",
+    "Longitude (C)": "32 W"
+  },
+  {
+    "City": "Paramaribo",
+    "State": "Null",
+    "Country": "Suriname",
+    "Latitude (D)": "5",
+    "Latitude (C)": "45 N",
+    "Longitude (D)": "55",
+    "Longitude (C)": "15 W"
+  },
+  {
+    "City": "Paris",
+    "State": "Null",
+    "Country": "France",
+    "Latitude (D)": "48",
+    "Latitude (C)": "48 N",
+    "Longitude (D)": "2",
+    "Longitude (C)": "20 E"
+  },
+  {
+    "City": "Perth",
+    "State": "Null",
+    "Country": "Australia",
+    "Latitude (D)": "31",
+    "Latitude (C)": "57 S",
+    "Longitude (D)": "115",
+    "Longitude (C)": "52 E"
+  },
+  {
+    "City": "Plymouth",
+    "State": "Null",
+    "Country": "England",
+    "Latitude (D)": "50",
+    "Latitude (C)": "25 N",
+    "Longitude (D)": "4",
+    "Longitude (C)": "5 W"
+  },
+  {
+    "City": "Port Moresby",
+    "State": "Null",
+    "Country": "Papua New Guinea",
+    "Latitude (D)": "9",
+    "Latitude (C)": "25 S",
+    "Longitude (D)": "147",
+    "Longitude (C)": "8 E"
+  },
+  {
+    "City": "Prague",
+    "State": "Null",
+    "Country": "Czech Republic",
+    "Latitude (D)": "50",
+    "Latitude (C)": "5 N",
+    "Longitude (D)": "14",
+    "Longitude (C)": "26 E"
+  },
+  {
+    "City": "Rangoon",
+    "State": "Null",
+    "Country": "Myanmar",
+    "Latitude (D)": "16",
+    "Latitude (C)": "50 N",
+    "Longitude (D)": "96",
+    "Longitude (C)": "0 E"
+  },
+  {
+    "City": "Reykjavik",
+    "State": "Null",
+    "Country": "Iceland",
+    "Latitude (D)": "64",
+    "Latitude (C)": "4 N",
+    "Longitude (D)": "21",
+    "Longitude (C)": "58 W"
+  },
+  {
+    "City": "Rio de Janeiro",
+    "State": "Null",
+    "Country": "Brazil",
+    "Latitude (D)": "22",
+    "Latitude (C)": "57 S",
+    "Longitude (D)": "43",
+    "Longitude (C)": "12 W"
+  },
+  {
+    "City": "Rome",
+    "State": "Null",
+    "Country": "Italy",
+    "Latitude (D)": "41",
+    "Latitude (C)": "54 N",
+    "Longitude (D)": "12",
+    "Longitude (C)": "27 E"
+  },
+  {
+    "City": "Salvador",
+    "State": "Null",
+    "Country": "Brazil",
+    "Latitude (D)": "12",
+    "Latitude (C)": "56 S",
+    "Longitude (D)": "38",
+    "Longitude (C)": "27 W"
+  },
+  {
+    "City": "Santiago",
+    "State": "Null",
+    "Country": "Chile",
+    "Latitude (D)": "33",
+    "Latitude (C)": "28 S",
+    "Longitude (D)": "70",
+    "Longitude (C)": "45 W"
+  },
+  {
+    "City": "St. Petersburg",
+    "State": "Null",
+    "Country": "Russia",
+    "Latitude (D)": "59",
+    "Latitude (C)": "56 N",
+    "Longitude (D)": "30",
+    "Longitude (C)": "18 E"
+  },
+  {
+    "City": "Sao Paulo",
+    "State": "Null",
+    "Country": "Brazil",
+    "Latitude (D)": "23",
+    "Latitude (C)": "31 S",
+    "Longitude (D)": "46",
+    "Longitude (C)": "31 W"
+  },
+  {
+    "City": "Shanghai",
+    "State": "Null",
+    "Country": "China",
+    "Latitude (D)": "31",
+    "Latitude (C)": "10 N",
+    "Longitude (D)": "121",
+    "Longitude (C)": "28 E"
+  },
+  {
+    "City": "Singapore",
+    "State": "Null",
+    "Country": "Singapore",
+    "Latitude (D)": "1",
+    "Latitude (C)": "14 N",
+    "Longitude (D)": "103",
+    "Longitude (C)": "55 E"
+  },
+  {
+    "City": "Sofia",
+    "State": "Null",
+    "Country": "Bulgaria",
+    "Latitude (D)": "42",
+    "Latitude (C)": "40 N",
+    "Longitude (D)": "23",
+    "Longitude (C)": "20 E"
+  },
+  {
+    "City": "Stockholm",
+    "State": "Null",
+    "Country": "Sweden",
+    "Latitude (D)": "59",
+    "Latitude (C)": "17 N",
+    "Longitude (D)": "18",
+    "Longitude (C)": "3 E"
+  },
+  {
+    "City": "Sydney",
+    "State": "Null",
+    "Country": "Australia",
+    "Latitude (D)": "34",
+    "Latitude (C)": "0 S",
+    "Longitude (D)": "151",
+    "Longitude (C)": "0 E"
+  },
+  {
+    "City": "Tananarive",
+    "State": "Null",
+    "Country": "Madagascar",
+    "Latitude (D)": "18",
+    "Latitude (C)": "50 S",
+    "Longitude (D)": "47",
+    "Longitude (C)": "33 E"
+  },
+  {
+    "City": "Teheran",
+    "State": "Null",
+    "Country": "Iran",
+    "Latitude (D)": "35",
+    "Latitude (C)": "45 N",
+    "Longitude (D)": "51",
+    "Longitude (C)": "45 E"
+  },
+  {
+    "City": "Tokyo",
+    "State": "Null",
+    "Country": "Japan",
+    "Latitude (D)": "35",
+    "Latitude (C)": "40 N",
+    "Longitude (D)": "139",
+    "Longitude (C)": "45 E"
+  },
+  {
+    "City": "Tripoli",
+    "State": "Null",
+    "Country": "Libya",
+    "Latitude (D)": "32",
+    "Latitude (C)": "57 N",
+    "Longitude (D)": "13",
+    "Longitude (C)": "12 E"
+  },
+  {
+    "City": "Venice",
+    "State": "Null",
+    "Country": "Italy",
+    "Latitude (D)": "45",
+    "Latitude (C)": "26 N",
+    "Longitude (D)": "12",
+    "Longitude (C)": "20 E"
+  },
+  {
+    "City": "Veracruz",
+    "State": "Null",
+    "Country": "Mexico",
+    "Latitude (D)": "19",
+    "Latitude (C)": "10 N",
+    "Longitude (D)": "96",
+    "Longitude (C)": "10 W"
+  },
+  {
+    "City": "Vienna",
+    "State": "Null",
+    "Country": "Austria",
+    "Latitude (D)": "48",
+    "Latitude (C)": "14 N",
+    "Longitude (D)": "16",
+    "Longitude (C)": "20 E"
+  },
+  {
+    "City": "Vladivostok",
+    "State": "Null",
+    "Country": "Russia",
+    "Latitude (D)": "43",
+    "Latitude (C)": "10 N",
+    "Longitude (D)": "132",
+    "Longitude (C)": "0 E"
+  },
+  {
+    "City": "Warsaw",
+    "State": "Null",
+    "Country": "Poland",
+    "Latitude (D)": "52",
+    "Latitude (C)": "14 N",
+    "Longitude (D)": "21",
+    "Longitude (C)": "0 E"
+  },
+  {
+    "City": "Wellington",
+    "State": "Null",
+    "Country": "New Zealand",
+    "Latitude (D)": "41",
+    "Latitude (C)": "17 S",
+    "Longitude (D)": "174",
+    "Longitude (C)": "47 E"
+  },
+  {
+    "City": "Zurich",
+    "State": "Null",
+    "Country": "Switzerland",
+    "Latitude (D)": "47",
+    "Latitude (C)": "21 N",
+    "Longitude (D)": "8",
+    "Longitude (C)": "31 E"
+  },
+  {
+    "City": "Albany",
+    "State": "N.Y.",
+    "Country": "United States",
+    "Latitude (D)": "42",
+    "Latitude (C)": "40 N",
+    "Longitude (D)": "73",
+    "Longitude (C)": "45 W"
+  },
+  {
+    "City": "Albuquerque",
+    "State": "N.M.",
+    "Country": "United States",
+    "Latitude (D)": "35",
+    "Latitude (C)": "5 N",
+    "Longitude (D)": "106",
+    "Longitude (C)": "39 W"
+  },
+  {
+    "City": "Amarillo",
+    "State": "Tex.",
+    "Country": "United States",
+    "Latitude (D)": "35",
+    "Latitude (C)": "11 N",
+    "Longitude (D)": "101",
+    "Longitude (C)": "50 W"
+  },
+  {
+    "City": "Anchorage",
+    "State": "Alaska",
+    "Country": "United States",
+    "Latitude (D)": "61",
+    "Latitude (C)": "13 N",
+    "Longitude (D)": "149",
+    "Longitude (C)": "54 W"
+  },
+  {
+    "City": "Atlanta",
+    "State": "Ga.",
+    "Country": "United States",
+    "Latitude (D)": "33",
+    "Latitude (C)": "45 N",
+    "Longitude (D)": "84",
+    "Longitude (C)": "23 W"
+  },
+  {
+    "City": "Austin",
+    "State": "Tex.",
+    "Country": "United States",
+    "Latitude (D)": "30",
+    "Latitude (C)": "16 N",
+    "Longitude (D)": "97",
+    "Longitude (C)": "44 W"
+  },
+  {
+    "City": "Baker",
+    "State": "Ore.",
+    "Country": "United States",
+    "Latitude (D)": "44",
+    "Latitude (C)": "47 N",
+    "Longitude (D)": "117",
+    "Longitude (C)": "50 W"
+  },
+  {
+    "City": "Baltimore",
+    "State": "Md.",
+    "Country": "United States",
+    "Latitude (D)": "39",
+    "Latitude (C)": "18 N",
+    "Longitude (D)": "76",
+    "Longitude (C)": "38 W"
+  },
+  {
+    "City": "Bangor",
+    "State": "Maine",
+    "Country": "United States",
+    "Latitude (D)": "44",
+    "Latitude (C)": "48 N",
+    "Longitude (D)": "68",
+    "Longitude (C)": "47 W"
+  },
+  {
+    "City": "Birmingham",
+    "State": "Ala.",
+    "Country": "United States",
+    "Latitude (D)": "33",
+    "Latitude (C)": "30 N",
+    "Longitude (D)": "86",
+    "Longitude (C)": "50 W"
+  },
+  {
+    "City": "Bismarck",
+    "State": "N.D.",
+    "Country": "United States",
+    "Latitude (D)": "46",
+    "Latitude (C)": "48 N",
+    "Longitude (D)": "100",
+    "Longitude (C)": "47 W"
+  },
+  {
+    "City": "Boise",
+    "State": "Idaho",
+    "Country": "United States",
+    "Latitude (D)": "43",
+    "Latitude (C)": "36 N",
+    "Longitude (D)": "116",
+    "Longitude (C)": "13 W"
+  },
+  {
+    "City": "Boston",
+    "State": "Mass.",
+    "Country": "United States",
+    "Latitude (D)": "42",
+    "Latitude (C)": "21 N",
+    "Longitude (D)": "71",
+    "Longitude (C)": "5 W"
+  },
+  {
+    "City": "Buffalo",
+    "State": "N.Y.",
+    "Country": "Canada",
+    "Latitude (D)": "42",
+    "Latitude (C)": "55 N",
+    "Longitude (D)": "78",
+    "Longitude (C)": "50 W"
+  },
+  {
+    "City": "Calgary",
+    "State": "Alba.",
+    "Country": "United States",
+    "Latitude (D)": "51",
+    "Latitude (C)": "1 N",
+    "Longitude (D)": "114",
+    "Longitude (C)": "1 W"
+  },
+  {
+    "City": "Carlsbad",
+    "State": "N.M.",
+    "Country": "United States",
+    "Latitude (D)": "32",
+    "Latitude (C)": "26 N",
+    "Longitude (D)": "104",
+    "Longitude (C)": "15 W"
+  },
+  {
+    "City": "Charleston",
+    "State": "S.C.",
+    "Country": "United States",
+    "Latitude (D)": "32",
+    "Latitude (C)": "47 N",
+    "Longitude (D)": "79",
+    "Longitude (C)": "56 W"
+  },
+  {
+    "City": "Charleston",
+    "State": "W. Va.",
+    "Country": "United States",
+    "Latitude (D)": "38",
+    "Latitude (C)": "21 N",
+    "Longitude (D)": "81",
+    "Longitude (C)": "38 W"
+  },
+  {
+    "City": "Charlotte",
+    "State": "N.C.",
+    "Country": "United States",
+    "Latitude (D)": "35",
+    "Latitude (C)": "14 N",
+    "Longitude (D)": "80",
+    "Longitude (C)": "50 W"
+  },
+  {
+    "City": "Cheyenne",
+    "State": "Wyo.",
+    "Country": "United States",
+    "Latitude (D)": "41",
+    "Latitude (C)": "9 N",
+    "Longitude (D)": "104",
+    "Longitude (C)": "52 W"
+  },
+  {
+    "City": "Chicago",
+    "State": "Ill.",
+    "Country": "United States",
+    "Latitude (D)": "41",
+    "Latitude (C)": "50 N",
+    "Longitude (D)": "87",
+    "Longitude (C)": "37 W"
+  },
+  {
+    "City": "Cincinnati",
+    "State": "Ohio",
+    "Country": "United States",
+    "Latitude (D)": "39",
+    "Latitude (C)": "8 N",
+    "Longitude (D)": "84",
+    "Longitude (C)": "30 W"
+  },
+  {
+    "City": "Cleveland",
+    "State": "Ohio",
+    "Country": "United States",
+    "Latitude (D)": "41",
+    "Latitude (C)": "28 N",
+    "Longitude (D)": "81",
+    "Longitude (C)": "37 W"
+  },
+  {
+    "City": "Columbia",
+    "State": "S.C.",
+    "Country": "United States",
+    "Latitude (D)": "34",
+    "Latitude (C)": "0 N",
+    "Longitude (D)": "81",
+    "Longitude (C)": "2 W"
+  },
+  {
+    "City": "Columbus",
+    "State": "Ohio",
+    "Country": "United States",
+    "Latitude (D)": "40",
+    "Latitude (C)": "0 N",
+    "Longitude (D)": "83",
+    "Longitude (C)": "1 W"
+  },
+  {
+    "City": "Dallas",
+    "State": "Tex.",
+    "Country": "United States",
+    "Latitude (D)": "32",
+    "Latitude (C)": "46 N",
+    "Longitude (D)": "96",
+    "Longitude (C)": "46 W"
+  },
+  {
+    "City": "Denver",
+    "State": "Colo.",
+    "Country": "United States",
+    "Latitude (D)": "39",
+    "Latitude (C)": "45 N",
+    "Longitude (D)": "105",
+    "Longitude (C)": "0 W"
+  },
+  {
+    "City": "Des Moines",
+    "State": "Iowa",
+    "Country": "United States",
+    "Latitude (D)": "41",
+    "Latitude (C)": "35 N",
+    "Longitude (D)": "93",
+    "Longitude (C)": "37 W"
+  },
+  {
+    "City": "Detroit",
+    "State": "Mich.",
+    "Country": "United States",
+    "Latitude (D)": "42",
+    "Latitude (C)": "20 N",
+    "Longitude (D)": "83",
+    "Longitude (C)": "3 W"
+  },
+  {
+    "City": "Dubuque",
+    "State": "Iowa",
+    "Country": "United States",
+    "Latitude (D)": "42",
+    "Latitude (C)": "31 N",
+    "Longitude (D)": "90",
+    "Longitude (C)": "40 W"
+  },
+  {
+    "City": "Duluth",
+    "State": "Minn.",
+    "Country": "United States",
+    "Latitude (D)": "46",
+    "Latitude (C)": "49 N",
+    "Longitude (D)": "92",
+    "Longitude (C)": "5 W"
+  },
+  {
+    "City": "Eastport",
+    "State": "Maine",
+    "Country": "Canada",
+    "Latitude (D)": "44",
+    "Latitude (C)": "54 N",
+    "Longitude (D)": "67",
+    "Longitude (C)": "0 W"
+  },
+  {
+    "City": "Edmonton",
+    "State": "Alb.",
+    "Country": "United States",
+    "Latitude (D)": "53",
+    "Latitude (C)": "34 N",
+    "Longitude (D)": "113",
+    "Longitude (C)": "28 W"
+  },
+  {
+    "City": "El Centro",
+    "State": "Calif.",
+    "Country": "United States",
+    "Latitude (D)": "32",
+    "Latitude (C)": "38 N",
+    "Longitude (D)": "115",
+    "Longitude (C)": "33 W"
+  },
+  {
+    "City": "El Paso",
+    "State": "Tex.",
+    "Country": "United States",
+    "Latitude (D)": "31",
+    "Latitude (C)": "46 N",
+    "Longitude (D)": "106",
+    "Longitude (C)": "29 W"
+  },
+  {
+    "City": "Eugene",
+    "State": "Ore.",
+    "Country": "United States",
+    "Latitude (D)": "44",
+    "Latitude (C)": "3 N",
+    "Longitude (D)": "123",
+    "Longitude (C)": "5 W"
+  },
+  {
+    "City": "Fargo",
+    "State": "N.D.",
+    "Country": "United States",
+    "Latitude (D)": "46",
+    "Latitude (C)": "52 N",
+    "Longitude (D)": "96",
+    "Longitude (C)": "48 W"
+  },
+  {
+    "City": "Flagstaff",
+    "State": "Ariz.",
+    "Country": "United States",
+    "Latitude (D)": "35",
+    "Latitude (C)": "13 N",
+    "Longitude (D)": "111",
+    "Longitude (C)": "41 W"
+  },
+  {
+    "City": "Fort Worth",
+    "State": "Tex.",
+    "Country": "United States",
+    "Latitude (D)": "32",
+    "Latitude (C)": "43 N",
+    "Longitude (D)": "97",
+    "Longitude (C)": "19 W"
+  },
+  {
+    "City": "Fresno",
+    "State": "Calif.",
+    "Country": "United States",
+    "Latitude (D)": "36",
+    "Latitude (C)": "44 N",
+    "Longitude (D)": "119",
+    "Longitude (C)": "48 W"
+  },
+  {
+    "City": "Grand Junction",
+    "State": "Colo.",
+    "Country": "United States",
+    "Latitude (D)": "39",
+    "Latitude (C)": "5 N",
+    "Longitude (D)": "108",
+    "Longitude (C)": "33 W"
+  },
+  {
+    "City": "Grand Rapids",
+    "State": "Mich.",
+    "Country": "United States",
+    "Latitude (D)": "42",
+    "Latitude (C)": "58 N",
+    "Longitude (D)": "85",
+    "Longitude (C)": "40 W"
+  },
+  {
+    "City": "Havre",
+    "State": "Mont.",
+    "Country": "United States",
+    "Latitude (D)": "48",
+    "Latitude (C)": "33 N",
+    "Longitude (D)": "109",
+    "Longitude (C)": "43 W"
+  },
+  {
+    "City": "Helena",
+    "State": "Mont.",
+    "Country": "United States",
+    "Latitude (D)": "46",
+    "Latitude (C)": "35 N",
+    "Longitude (D)": "112",
+    "Longitude (C)": "2 W"
+  },
+  {
+    "City": "Honolulu",
+    "State": "Hawaii",
+    "Country": "United States",
+    "Latitude (D)": "21",
+    "Latitude (C)": "18 N",
+    "Longitude (D)": "157",
+    "Longitude (C)": "50 W"
+  },
+  {
+    "City": "Hot Springs",
+    "State": "Ark.",
+    "Country": "United States",
+    "Latitude (D)": "34",
+    "Latitude (C)": "31 N",
+    "Longitude (D)": "93",
+    "Longitude (C)": "3 W"
+  },
+  {
+    "City": "Houston",
+    "State": "Tex.",
+    "Country": "United States",
+    "Latitude (D)": "29",
+    "Latitude (C)": "45 N",
+    "Longitude (D)": "95",
+    "Longitude (C)": "21 W"
+  },
+  {
+    "City": "Idaho Falls",
+    "State": "Idaho",
+    "Country": "United States",
+    "Latitude (D)": "43",
+    "Latitude (C)": "30 N",
+    "Longitude (D)": "112",
+    "Longitude (C)": "1 W"
+  },
+  {
+    "City": "Indianapolis",
+    "State": "Ind.",
+    "Country": "United States",
+    "Latitude (D)": "39",
+    "Latitude (C)": "46 N",
+    "Longitude (D)": "86",
+    "Longitude (C)": "10 W"
+  },
+  {
+    "City": "Jackson",
+    "State": "Miss.",
+    "Country": "United States",
+    "Latitude (D)": "32",
+    "Latitude (C)": "20 N",
+    "Longitude (D)": "90",
+    "Longitude (C)": "12 W"
+  },
+  {
+    "City": "Jacksonville",
+    "State": "Fla.",
+    "Country": "United States",
+    "Latitude (D)": "30",
+    "Latitude (C)": "22 N",
+    "Longitude (D)": "81",
+    "Longitude (C)": "40 W"
+  },
+  {
+    "City": "Juneau",
+    "State": "Alaska",
+    "Country": "United States",
+    "Latitude (D)": "58",
+    "Latitude (C)": "18 N",
+    "Longitude (D)": "134",
+    "Longitude (C)": "24 W"
+  },
+  {
+    "City": "Kansas City",
+    "State": "Mo.",
+    "Country": "United States",
+    "Latitude (D)": "39",
+    "Latitude (C)": "6 N",
+    "Longitude (D)": "94",
+    "Longitude (C)": "35 W"
+  },
+  {
+    "City": "Key West",
+    "State": "Fla.",
+    "Country": "Canada",
+    "Latitude (D)": "24",
+    "Latitude (C)": "33 N",
+    "Longitude (D)": "81",
+    "Longitude (C)": "48 W"
+  },
+  {
+    "City": "Kingston",
+    "State": "Ont.",
+    "Country": "United States",
+    "Latitude (D)": "44",
+    "Latitude (C)": "15 N",
+    "Longitude (D)": "76",
+    "Longitude (C)": "30 W"
+  },
+  {
+    "City": "Klamath Falls",
+    "State": "Ore.",
+    "Country": "United States",
+    "Latitude (D)": "42",
+    "Latitude (C)": "10 N",
+    "Longitude (D)": "121",
+    "Longitude (C)": "44 W"
+  },
+  {
+    "City": "Knoxville",
+    "State": "Tenn.",
+    "Country": "United States",
+    "Latitude (D)": "35",
+    "Latitude (C)": "57 N",
+    "Longitude (D)": "83",
+    "Longitude (C)": "56 W"
+  },
+  {
+    "City": "Las Vegas",
+    "State": "Nev.",
+    "Country": "United States",
+    "Latitude (D)": "36",
+    "Latitude (C)": "10 N",
+    "Longitude (D)": "115",
+    "Longitude (C)": "12 W"
+  },
+  {
+    "City": "Lewiston",
+    "State": "Idaho",
+    "Country": "United States",
+    "Latitude (D)": "46",
+    "Latitude (C)": "24 N",
+    "Longitude (D)": "117",
+    "Longitude (C)": "2 W"
+  },
+  {
+    "City": "Lincoln",
+    "State": "Neb.",
+    "Country": "Canada",
+    "Latitude (D)": "40",
+    "Latitude (C)": "50 N",
+    "Longitude (D)": "96",
+    "Longitude (C)": "40 W"
+  },
+  {
+    "City": "London",
+    "State": "Ont.",
+    "Country": "United States",
+    "Latitude (D)": "43",
+    "Latitude (C)": "2 N",
+    "Longitude (D)": "81",
+    "Longitude (C)": "34 W"
+  },
+  {
+    "City": "Long Beach",
+    "State": "Calif.",
+    "Country": "United States",
+    "Latitude (D)": "33",
+    "Latitude (C)": "46 N",
+    "Longitude (D)": "118",
+    "Longitude (C)": "11 W"
+  },
+  {
+    "City": "Los Angeles",
+    "State": "Calif.",
+    "Country": "United States",
+    "Latitude (D)": "34",
+    "Latitude (C)": "3 N",
+    "Longitude (D)": "118",
+    "Longitude (C)": "15 W"
+  },
+  {
+    "City": "Louisville",
+    "State": "Ky.",
+    "Country": "United States",
+    "Latitude (D)": "38",
+    "Latitude (C)": "15 N",
+    "Longitude (D)": "85",
+    "Longitude (C)": "46 W"
+  },
+  {
+    "City": "Manchester",
+    "State": "N.H.",
+    "Country": "United States",
+    "Latitude (D)": "43",
+    "Latitude (C)": "0 N",
+    "Longitude (D)": "71",
+    "Longitude (C)": "30 W"
+  },
+  {
+    "City": "Memphis",
+    "State": "Tenn.",
+    "Country": "United States",
+    "Latitude (D)": "35",
+    "Latitude (C)": "9 N",
+    "Longitude (D)": "90",
+    "Longitude (C)": "3 W"
+  },
+  {
+    "City": "Miami",
+    "State": "Fla.",
+    "Country": "United States",
+    "Latitude (D)": "25",
+    "Latitude (C)": "46 N",
+    "Longitude (D)": "80",
+    "Longitude (C)": "12 W"
+  },
+  {
+    "City": "Milwaukee",
+    "State": "Wis.",
+    "Country": "United States",
+    "Latitude (D)": "43",
+    "Latitude (C)": "2 N",
+    "Longitude (D)": "87",
+    "Longitude (C)": "55 W"
+  },
+  {
+    "City": "Minneapolis",
+    "State": "Minn.",
+    "Country": "United States",
+    "Latitude (D)": "44",
+    "Latitude (C)": "59 N",
+    "Longitude (D)": "93",
+    "Longitude (C)": "14 W"
+  },
+  {
+    "City": "Mobile",
+    "State": "Ala.",
+    "Country": "United States",
+    "Latitude (D)": "30",
+    "Latitude (C)": "42 N",
+    "Longitude (D)": "88",
+    "Longitude (C)": "3 W"
+  },
+  {
+    "City": "Montgomery",
+    "State": "Ala.",
+    "Country": "United States",
+    "Latitude (D)": "32",
+    "Latitude (C)": "21 N",
+    "Longitude (D)": "86",
+    "Longitude (C)": "18 W"
+  },
+  {
+    "City": "Montpelier",
+    "State": "Vt.",
+    "Country": "Canada",
+    "Latitude (D)": "44",
+    "Latitude (C)": "15 N",
+    "Longitude (D)": "72",
+    "Longitude (C)": "32 W"
+  },
+  {
+    "City": "Montreal",
+    "State": "Que.",
+    "Country": "Canada",
+    "Latitude (D)": "45",
+    "Latitude (C)": "30 N",
+    "Longitude (D)": "73",
+    "Longitude (C)": "35 W"
+  },
+  {
+    "City": "Moose Jaw",
+    "State": "Sask.",
+    "Country": "United States",
+    "Latitude (D)": "50",
+    "Latitude (C)": "37 N",
+    "Longitude (D)": "105",
+    "Longitude (C)": "31 W"
+  },
+  {
+    "City": "Nashville",
+    "State": "Tenn.",
+    "Country": "Canada",
+    "Latitude (D)": "36",
+    "Latitude (C)": "10 N",
+    "Longitude (D)": "86",
+    "Longitude (C)": "47 W"
+  },
+  {
+    "City": "Nelson",
+    "State": "B.C.",
+    "Country": "United States",
+    "Latitude (D)": "49",
+    "Latitude (C)": "30 N",
+    "Longitude (D)": "117",
+    "Longitude (C)": "17 W"
+  },
+  {
+    "City": "Newark",
+    "State": "N.J.",
+    "Country": "United States",
+    "Latitude (D)": "40",
+    "Latitude (C)": "44 N",
+    "Longitude (D)": "74",
+    "Longitude (C)": "10 W"
+  },
+  {
+    "City": "New Haven",
+    "State": "Conn.",
+    "Country": "United States",
+    "Latitude (D)": "41",
+    "Latitude (C)": "19 N",
+    "Longitude (D)": "72",
+    "Longitude (C)": "55 W"
+  },
+  {
+    "City": "New Orleans",
+    "State": "La.",
+    "Country": "United States",
+    "Latitude (D)": "29",
+    "Latitude (C)": "57 N",
+    "Longitude (D)": "90",
+    "Longitude (C)": "4 W"
+  },
+  {
+    "City": "New York",
+    "State": "N.Y.",
+    "Country": "United States",
+    "Latitude (D)": "40",
+    "Latitude (C)": "47 N",
+    "Longitude (D)": "73",
+    "Longitude (C)": "58 W"
+  },
+  {
+    "City": "Nome",
+    "State": "Alaska",
+    "Country": "United States",
+    "Latitude (D)": "64",
+    "Latitude (C)": "25 N",
+    "Longitude (D)": "165",
+    "Longitude (C)": "30 W"
+  },
+  {
+    "City": "Oakland",
+    "State": "Calif.",
+    "Country": "United States",
+    "Latitude (D)": "37",
+    "Latitude (C)": "48 N",
+    "Longitude (D)": "122",
+    "Longitude (C)": "16 W"
+  },
+  {
+    "City": "Oklahoma City",
+    "State": "Okla.",
+    "Country": "United States",
+    "Latitude (D)": "35",
+    "Latitude (C)": "26 N",
+    "Longitude (D)": "97",
+    "Longitude (C)": "28 W"
+  },
+  {
+    "City": "Omaha",
+    "State": "Neb.",
+    "Country": "Canada",
+    "Latitude (D)": "41",
+    "Latitude (C)": "15 N",
+    "Longitude (D)": "95",
+    "Longitude (C)": "56 W"
+  },
+  {
+    "City": "Ottawa",
+    "State": "Ont.",
+    "Country": "United States",
+    "Latitude (D)": "45",
+    "Latitude (C)": "24 N",
+    "Longitude (D)": "75",
+    "Longitude (C)": "43 W"
+  },
+  {
+    "City": "Philadelphia",
+    "State": "Pa.",
+    "Country": "United States",
+    "Latitude (D)": "39",
+    "Latitude (C)": "57 N",
+    "Longitude (D)": "75",
+    "Longitude (C)": "10 W"
+  },
+  {
+    "City": "Phoenix",
+    "State": "Ariz.",
+    "Country": "United States",
+    "Latitude (D)": "33",
+    "Latitude (C)": "29 N",
+    "Longitude (D)": "112",
+    "Longitude (C)": "4 W"
+  },
+  {
+    "City": "Pierre",
+    "State": "S.D.",
+    "Country": "United States",
+    "Latitude (D)": "44",
+    "Latitude (C)": "22 N",
+    "Longitude (D)": "100",
+    "Longitude (C)": "21 W"
+  },
+  {
+    "City": "Pittsburgh",
+    "State": "Pa.",
+    "Country": "United States",
+    "Latitude (D)": "40",
+    "Latitude (C)": "27 N",
+    "Longitude (D)": "79",
+    "Longitude (C)": "57 W"
+  },
+  {
+    "City": "Portland",
+    "State": "Maine",
+    "Country": "United States",
+    "Latitude (D)": "43",
+    "Latitude (C)": "40 N",
+    "Longitude (D)": "70",
+    "Longitude (C)": "15 W"
+  },
+  {
+    "City": "Portland",
+    "State": "Ore.",
+    "Country": "United States",
+    "Latitude (D)": "45",
+    "Latitude (C)": "31 N",
+    "Longitude (D)": "122",
+    "Longitude (C)": "41 W"
+  },
+  {
+    "City": "Providence",
+    "State": "R.I.",
+    "Country": "Canada",
+    "Latitude (D)": "41",
+    "Latitude (C)": "50 N",
+    "Longitude (D)": "71",
+    "Longitude (C)": "24 W"
+  },
+  {
+    "City": "Quebec",
+    "State": "Que.",
+    "Country": "United States",
+    "Latitude (D)": "46",
+    "Latitude (C)": "49 N",
+    "Longitude (D)": "71",
+    "Longitude (C)": "11 W"
+  },
+  {
+    "City": "Raleigh",
+    "State": "N.C.",
+    "Country": "United States",
+    "Latitude (D)": "35",
+    "Latitude (C)": "46 N",
+    "Longitude (D)": "78",
+    "Longitude (C)": "39 W"
+  },
+  {
+    "City": "Reno",
+    "State": "Nev.",
+    "Country": "United States",
+    "Latitude (D)": "39",
+    "Latitude (C)": "30 N",
+    "Longitude (D)": "119",
+    "Longitude (C)": "49 W"
+  },
+  {
+    "City": "Richfield",
+    "State": "Utah",
+    "Country": "United States",
+    "Latitude (D)": "38",
+    "Latitude (C)": "46 N",
+    "Longitude (D)": "112",
+    "Longitude (C)": "5 W"
+  },
+  {
+    "City": "Richmond",
+    "State": "Va.",
+    "Country": "United States",
+    "Latitude (D)": "37",
+    "Latitude (C)": "33 N",
+    "Longitude (D)": "77",
+    "Longitude (C)": "29 W"
+  },
+  {
+    "City": "Roanoke",
+    "State": "Va.",
+    "Country": "United States",
+    "Latitude (D)": "37",
+    "Latitude (C)": "17 N",
+    "Longitude (D)": "79",
+    "Longitude (C)": "57 W"
+  },
+  {
+    "City": "Sacramento",
+    "State": "Calif.",
+    "Country": "Canada",
+    "Latitude (D)": "38",
+    "Latitude (C)": "35 N",
+    "Longitude (D)": "121",
+    "Longitude (C)": "30 W"
+  },
+  {
+    "City": "St. John",
+    "State": "N.B.",
+    "Country": "United States",
+    "Latitude (D)": "45",
+    "Latitude (C)": "18 N",
+    "Longitude (D)": "66",
+    "Longitude (C)": "10 W"
+  },
+  {
+    "City": "St. Louis",
+    "State": "Mo.",
+    "Country": "United States",
+    "Latitude (D)": "38",
+    "Latitude (C)": "35 N",
+    "Longitude (D)": "90",
+    "Longitude (C)": "12 W"
+  },
+  {
+    "City": "Salt Lake City",
+    "State": "Utah",
+    "Country": "United States",
+    "Latitude (D)": "40",
+    "Latitude (C)": "46 N",
+    "Longitude (D)": "111",
+    "Longitude (C)": "54 W"
+  },
+  {
+    "City": "San Antonio",
+    "State": "Tex.",
+    "Country": "United States",
+    "Latitude (D)": "29",
+    "Latitude (C)": "23 N",
+    "Longitude (D)": "98",
+    "Longitude (C)": "33 W"
+  },
+  {
+    "City": "San Diego",
+    "State": "Calif.",
+    "Country": "United States",
+    "Latitude (D)": "32",
+    "Latitude (C)": "42 N",
+    "Longitude (D)": "117",
+    "Longitude (C)": "10 W"
+  },
+  {
+    "City": "San Francisco",
+    "State": "Calif.",
+    "Country": "United States",
+    "Latitude (D)": "37",
+    "Latitude (C)": "47 N",
+    "Longitude (D)": "122",
+    "Longitude (C)": "26 W"
+  },
+  {
+    "City": "San Jose",
+    "State": "Calif.",
+    "Country": "United States",
+    "Latitude (D)": "37",
+    "Latitude (C)": "20 N",
+    "Longitude (D)": "121",
+    "Longitude (C)": "53 W"
+  },
+  {
+    "City": "San Juan",
+    "State": "P.R.",
+    "Country": "United States",
+    "Latitude (D)": "18",
+    "Latitude (C)": "30 N",
+    "Longitude (D)": "66",
+    "Longitude (C)": "10 W"
+  },
+  {
+    "City": "Santa Fe",
+    "State": "N.M.",
+    "Country": "United States",
+    "Latitude (D)": "35",
+    "Latitude (C)": "41 N",
+    "Longitude (D)": "105",
+    "Longitude (C)": "57 W"
+  },
+  {
+    "City": "Savannah",
+    "State": "Ga.",
+    "Country": "United States",
+    "Latitude (D)": "32",
+    "Latitude (C)": "5 N",
+    "Longitude (D)": "81",
+    "Longitude (C)": "5 W"
+  },
+  {
+    "City": "Seattle",
+    "State": "Wash.",
+    "Country": "United States",
+    "Latitude (D)": "47",
+    "Latitude (C)": "37 N",
+    "Longitude (D)": "122",
+    "Longitude (C)": "20 W"
+  },
+  {
+    "City": "Shreveport",
+    "State": "La.",
+    "Country": "United States",
+    "Latitude (D)": "32",
+    "Latitude (C)": "28 N",
+    "Longitude (D)": "93",
+    "Longitude (C)": "42 W"
+  },
+  {
+    "City": "Sioux Falls",
+    "State": "S.D.",
+    "Country": "United States",
+    "Latitude (D)": "43",
+    "Latitude (C)": "33 N",
+    "Longitude (D)": "96",
+    "Longitude (C)": "44 W"
+  },
+  {
+    "City": "Sitka",
+    "State": "Alaska",
+    "Country": "United States",
+    "Latitude (D)": "57",
+    "Latitude (C)": "10 N",
+    "Longitude (D)": "135",
+    "Longitude (C)": "15 W"
+  },
+  {
+    "City": "Spokane",
+    "State": "Wash.",
+    "Country": "United States",
+    "Latitude (D)": "47",
+    "Latitude (C)": "40 N",
+    "Longitude (D)": "117",
+    "Longitude (C)": "26 W"
+  },
+  {
+    "City": "Springfield",
+    "State": "Ill.",
+    "Country": "United States",
+    "Latitude (D)": "39",
+    "Latitude (C)": "48 N",
+    "Longitude (D)": "89",
+    "Longitude (C)": "38 W"
+  },
+  {
+    "City": "Springfield",
+    "State": "Mass.",
+    "Country": "United States",
+    "Latitude (D)": "42",
+    "Latitude (C)": "6 N",
+    "Longitude (D)": "72",
+    "Longitude (C)": "34 W"
+  },
+  {
+    "City": "Springfield",
+    "State": "Mo.",
+    "Country": "United States",
+    "Latitude (D)": "37",
+    "Latitude (C)": "13 N",
+    "Longitude (D)": "93",
+    "Longitude (C)": "17 W"
+  },
+  {
+    "City": "Syracuse",
+    "State": "N.Y.",
+    "Country": "United States",
+    "Latitude (D)": "43",
+    "Latitude (C)": "2 N",
+    "Longitude (D)": "76",
+    "Longitude (C)": "8 W"
+  },
+  {
+    "City": "Tampa",
+    "State": "Fla.",
+    "Country": "United States",
+    "Latitude (D)": "27",
+    "Latitude (C)": "57 N",
+    "Longitude (D)": "82",
+    "Longitude (C)": "27 W"
+  },
+  {
+    "City": "Toledo",
+    "State": "Ohio",
+    "Country": "Canada",
+    "Latitude (D)": "41",
+    "Latitude (C)": "39 N",
+    "Longitude (D)": "83",
+    "Longitude (C)": "33 W"
+  },
+  {
+    "City": "Toronto",
+    "State": "Ont.",
+    "Country": "United States",
+    "Latitude (D)": "43",
+    "Latitude (C)": "40 N",
+    "Longitude (D)": "79",
+    "Longitude (C)": "24 W"
+  },
+  {
+    "City": "Tulsa",
+    "State": "Okla.",
+    "Country": "Canada",
+    "Latitude (D)": "36",
+    "Latitude (C)": "9 N",
+    "Longitude (D)": "95",
+    "Longitude (C)": "59 W"
+  },
+  {
+    "City": "Vancouver",
+    "State": "B.C.",
+    "Country": "Canada",
+    "Latitude (D)": "49",
+    "Latitude (C)": "13 N",
+    "Longitude (D)": "123",
+    "Longitude (C)": "6 W"
+  },
+  {
+    "City": "Victoria",
+    "State": "B.C.",
+    "Country": "United States",
+    "Latitude (D)": "48",
+    "Latitude (C)": "25 N",
+    "Longitude (D)": "123",
+    "Longitude (C)": "21 W"
+  },
+  {
+    "City": "Virginia Beach",
+    "State": "Va.",
+    "Country": "United States",
+    "Latitude (D)": "36",
+    "Latitude (C)": "51 N",
+    "Longitude (D)": "75",
+    "Longitude (C)": "58 W"
+  },
+  {
+    "City": "Washington",
+    "State": "D.C.",
+    "Country": "United States",
+    "Latitude (D)": "38",
+    "Latitude (C)": "53 N",
+    "Longitude (D)": "77",
+    "Longitude (C)": "2 W"
+  },
+  {
+    "City": "Wichita",
+    "State": "Kan.",
+    "Country": "United States",
+    "Latitude (D)": "37",
+    "Latitude (C)": "43 N",
+    "Longitude (D)": "97",
+    "Longitude (C)": "17 W"
+  },
+  {
+    "City": "Wilmington",
+    "State": "N.C.",
+    "Country": "Canada",
+    "Latitude (D)": "34",
+    "Latitude (C)": "14 N",
+    "Longitude (D)": "77",
+    "Longitude (C)": "57 W"
+  },
+  {
+    "City": "Winnipeg",
+    "State": "Man.",
+    "Country": "United States",
+    "Latitude (D)": "49",
+    "Latitude (C)": "54 N",
+    "Longitude (D)": "97",
+    "Longitude (C)": "7 W"
+  }
+]
