@@ -32,7 +32,3 @@ sudo snap install discord
 sudo snap install code --classic
 sudo snap install slack --classic
 sudo snap install zoom-client
-
-#Configure Git
-git config --global user.name "Jon"
-git config --global user.email "jon.hogan83@gmail.com"
